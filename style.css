@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+   
+    padding: 2rem;
+    border-radius: 50%;
+    margin-left: 1rem;
+   
+
+}
+h1{
+    margin-left: 5rem;
+    margin-bottom: 3rem;
+}
+
+.counder {
+    color: red;
+}
